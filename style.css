@@ -1,0 +1,39 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    /* margin: 0% auto; */
+    /* align-items: center; */
+    /* width: 80%; */
+
+}
+
+.Need{
+    background-image: url(images/donation0.jpg);
+    background-repeat: no-repeat;
+    /* margin: 50px 100px; */
+    backdrop-filter: opacity(0.8);
+    width: 1000px;
+    height: 400px;
+    align-items: center;
+}  
+.Need_Tow{
+    text-align: center;
+    color: aliceblue;
+    padding-top: 100px;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, Tomato);
+    padding: 10px 100px;
+    color: white;
+    font-weight: 500;
+    border-radius:5px ;
+    /* text-align: center; */ 
+}
+/* section{
+   display: flex;
+    margin-bottom: 200px;
+} */
+h1{
+   
+}
