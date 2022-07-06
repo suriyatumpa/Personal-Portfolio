@@ -37,3 +37,11 @@ body{
 h1{
    
 }
+.Taka{
+    background-color: darkgray;
+    color:black;
+    border-radius: 5px;
+    border: 2px solid rosybrown;
+    margin: 10px 1400px 30px 0px;
+    padding: 10px 0px 10px 20px;
+}
