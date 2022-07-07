@@ -48,6 +48,11 @@ h1{
     padding: 10px 0px 10px 20px;
     
 }
+.amount{
+    text-align: center;
+    color: black;
+    padding: 100px;
+}
 .donate{
     text-align: center;
     color: black;
